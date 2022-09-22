@@ -34,4 +34,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.kennyegun24) <br>
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/kennyegun24) <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyegun24&show_icons=true&theme=tokyonight) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyegun24&theme=tokyonight)
 
