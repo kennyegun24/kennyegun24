@@ -2,7 +2,7 @@
 **kennyegun24/kennyegun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Kenny Elias</h1>
 
-<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=FullStack%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
+<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
 
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <h4 align="left"> 🌱 I’m currently learning **Ruby, React, Ruby on Rails**
