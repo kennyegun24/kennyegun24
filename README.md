@@ -23,15 +23,17 @@
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
 
-  <a href="https://github.com/kennyegun24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennyegun24&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyegun24&layout=compact&langs_count=7&theme=gruvbox"/>
-</a>
+
+<p><img style="background: black;" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyegun24&show_icons=true&locale=en&layout=compact" alt="anyepeter" /></p>
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=kennyegun24&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="kennyegun24" />
  
+ <p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kennyegun24&show_icons=true&locale=en" alt="anyepeter" /></p>
+ 
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyegun24&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="kennyegun24" /> 
 </p>
+
+
 
 
 <h3 align="center">Connect with me:</h3>
