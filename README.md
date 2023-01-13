@@ -23,8 +23,10 @@
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
 
-<p align="center">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kennyegun24&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Language stats" />
+  <a href="https://github.com/kennyegun24">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennyegun24&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyegun24&layout=compact&langs_count=7&theme=gruvbox"/>
+</a>
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=kennyegun24&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="kennyegun24" />
  
