@@ -29,7 +29,9 @@
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyegun24&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="kennyegun24" /> 
 </p>
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennyegun24" alt="kennyegun24" /></a> </p>
+<br>    
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kennyegun24&show_icons=true&theme=gotham" alt="kennyegun24" />
 
 
 <h3 align="center">Connect with me:</h3>
