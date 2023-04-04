@@ -4,8 +4,7 @@
 
 <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
 
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-<h4 align="left"> 🌱 I’m currently learning **Ruby, React, Ruby on Rails**
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
  👯 I’m looking to collaborate on **Any project**
 
@@ -13,7 +12,7 @@
 
  👨‍💻 All of my projects are available at [https://kennyegun24.github.io/Mobile-Version/](https://kennyegun24.github.io/Mobile-Version/)
 
- 💬 Ask me about **JavaScript, Webpack, APIs**
+ 💬 Ask me about **JavaScript, React, RestAPIs Webpack, APIs**
 
  📫 How to reach me **kennyegun240@gmail.com**
 
