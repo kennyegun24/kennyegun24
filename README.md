@@ -12,7 +12,7 @@
 
  👨‍💻 All of my projects are available at [https://kennyegun24.github.io/Mobile-Version/](https://kennyegun24.github.io/Mobile-Version/)
 
- 💬 Ask me about **JavaScript, React, RestAPIs Webpack, APIs**
+ 💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
 
  📫 How to reach me **kennyegun240@gmail.com**
 
