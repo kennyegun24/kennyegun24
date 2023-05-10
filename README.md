@@ -7,9 +7,12 @@
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
  👯 I’m looking to collaborate on **Any project**
+	
+	
 
- 🤝 I’m looking for help with **Any type of project**
+ 🤝 I'm looking for help with **Any type of project**
 
+	I am currently learning android and ios development usimg React Native
  👨‍💻 All of my projects are available at [https://kennyegun24.github.io/Mobile-Version/](https://kennyegun24.github.io/Mobile-Version/)
 
  💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
