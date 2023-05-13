@@ -2,17 +2,15 @@
 **kennyegun24/kennyegun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Kenny Elias</h1>
 
-<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
+<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;%20Web3%20Intern%20at%20DeCellar&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
 
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
  👯 I’m looking to collaborate on **Any project**
-	
-	
 
- 🤝 I'm looking for help with **Any type of project**
+ 🤩 I am a Web3 intern at **DeCellar**
 
-	I am currently learning android and ios development usimg React Native
+	I am currently learning android and ios development using React Native
  👨‍💻 All of my projects are available at [https://kennyegun24.github.io/Mobile-Version/](https://kennyegun24.github.io/Mobile-Version/)
 
  💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
