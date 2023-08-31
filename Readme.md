@@ -10,7 +10,7 @@
  🤩 I am a Web3 intern at **DeCellar**
 
 	I am currently learning android and ios development using React Native
- 👨‍💻 All of my projects are available at [https://kennyegun24.github.io/Mobile-Version/](https://kennyegun24.github.io/Mobile-Version/)
+ 👨‍💻 Some of my projects are available at [my portfolio](https://kennyelias-portfolio.netlify.app/)
 
  💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
 
